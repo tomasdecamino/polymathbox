@@ -1,4 +1,4 @@
-<img src="https://github.com/tomasdecamino/polymathbox/blob/master/polymathbox_images/pmball1.JPG" width="500">
+<img src="https://github.com/tomasdecamino/polymathbox/blob/master/polymathbox_images/pmball1.JPG" width="800">
 # [proyecto] polymathbox
 
 Este es un proyecto para la integración de arte, expresión, programación y electrónica en programas educativos. Los polymathbox son cjaas que generan sonidos que se crean a través de la programación de algoritmos.  Cada caja está construida con un arduino como procesador, y con unos pocos componetes electrónicos sencillos, con sus cajas fabricadas con impresión 3D.
